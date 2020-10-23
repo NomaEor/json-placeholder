@@ -8,7 +8,7 @@
       "hold": "4A",
       "commodity": "OR",
       "boxes": 70,
-      "status": "0x88007ACC"
+      "color": "0x88007ACC"
     },
     {
       "id": 10002232,
@@ -18,7 +18,7 @@
       "hold": "4A",
       "commodity": "LE",
       "boxes": 63,
-      "status": "0x88B71616"
+      "color": "0x88B71616"
     },
     {
       "id": 10002233,
@@ -28,7 +28,7 @@
       "hold": "4A",
       "commodity": "MA",
       "boxes": 96,
-      "status": "0x8873C990"
+      "color": "0x8873C990"
     },
     {
       "id": 10002234,
@@ -38,7 +38,7 @@
       "hold": "4A",
       "commodity": "LE",
       "boxes": 63,
-      "status": "0x88DB671F"
+      "color": "0x88DB671F"
     }
   ]
 }
