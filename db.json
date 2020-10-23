@@ -1,0 +1,44 @@
+{
+  "pallets": [
+    {
+      "id": 10002231,
+      "bill": "001",
+      "brand": "Gomila",
+      "consignee": "Glory",
+      "hold": "4A",
+      "commodity": "OR",
+      "boxes": 70,
+      "status": "0x88007ACC"
+    },
+    {
+      "id": 10002232,
+      "bill": "002",
+      "brand": "Pacara",
+      "consignee": "Troya",
+      "hold": "4A",
+      "commodity": "LE",
+      "boxes": 63,
+      "status": "0x88B71616"
+    },
+    {
+      "id": 10002233,
+      "bill": "003",
+      "brand": "Prima",
+      "consignee": "RGS",
+      "hold": "4A",
+      "commodity": "MA",
+      "boxes": 96,
+      "status": "0x8873C990"
+    },
+    {
+      "id": 10002234,
+      "bill": "004",
+      "brand": "Diagonal",
+      "consignee": "Legend",
+      "hold": "4A",
+      "commodity": "LE",
+      "boxes": 63,
+      "status": "0x88DB671F"
+    }
+  ]
+}
